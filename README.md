@@ -1,4 +1,4 @@
-6:49 PMClaude respondió: Ojo: los bloques de código internos los puse con un caracter invisible al lado de los backticks para que no rompan el bloque exterior.# My Claude Code Skills
+# My Claude Code Skills
 
 Personal backup of my custom Claude Code skills so I can use them across multiple devices.
 
